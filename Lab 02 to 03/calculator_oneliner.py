@@ -1,0 +1,1 @@
+print(f'The output of your expression is: {eval(input("Write in an expression: ")):.5f}')  # Technically the truth
